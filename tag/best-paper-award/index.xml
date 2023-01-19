@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best Paper Award | Andreas Bär</title>
+    <link>https://andrbaer.github.io/tag/best-paper-award/</link>
+      <atom:link href="https://andrbaer.github.io/tag/best-paper-award/index.xml" rel="self" type="application/rss+xml" />
+    <description>Best Paper Award</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrbaer.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Best Paper Award</title>
+      <link>https://andrbaer.github.io/tag/best-paper-award/</link>
+    </image>
+    
+    <item>
+      <title>An Unsupervised Temporal Consistency (TC) Loss To Improve the Performance of Semantic Segmentation Networks</title>
+      <link>https://andrbaer.github.io/publication/varghese2021/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/varghese2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Semantic Segmentation by Redundant Networks With a Layer-Specific Loss Contribution and Majority Vote</title>
+      <link>https://andrbaer.github.io/publication/baer2020/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Corruptions | Andreas Bär</title>
+    <link>https://andrbaer.github.io/tag/image-corruptions/</link>
+      <atom:link href="https://andrbaer.github.io/tag/image-corruptions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image Corruptions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrbaer.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Image Corruptions</title>
+      <link>https://andrbaer.github.io/tag/image-corruptions/</link>
+    </image>
+    
+    <item>
+      <title>Single-Task Multi-Decoder Network Ensembles</title>
+      <link>https://andrbaer.github.io/project/universal_video_attacks/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/project/universal_video_attacks/</guid>
+      <description>&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

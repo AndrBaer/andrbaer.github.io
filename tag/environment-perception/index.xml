@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment Perception | Andreas Bär</title>
+    <link>https://andrbaer.github.io/tag/environment-perception/</link>
+      <atom:link href="https://andrbaer.github.io/tag/environment-perception/index.xml" rel="self" type="application/rss+xml" />
+    <description>Environment Perception</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrbaer.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Environment Perception</title>
+      <link>https://andrbaer.github.io/tag/environment-perception/</link>
+    </image>
+    
+    <item>
+      <title>KI Absicherung - Safe AI for Automated Driving</title>
+      <link>https://andrbaer.github.io/project/kia/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/project/kia/</guid>
+      <description>&lt;p&gt;Environment perception can be seen as &lt;em&gt;highly safety-relevant&lt;/em&gt; when it comes to automated driving. Deep neural networks (DNNs) are the state of the art in many computer vision disciplines. Therefore they are considered to be the go-to technology when it comes to environment perception. However, there are still concerns regarding the safety of DNN-based perception functions.&lt;/p&gt;
+&lt;p&gt;This is where the idea of KI Absicherung was born. In this project the question of &amp;ldquo;How can we verify the safety of DNN-based functions?&amp;rdquo; in the context of automated driving was addressed. With a project budget of 41M € and a funding budget of 19.2M €, a consortium of 24 project partners of both industry and academia with additional 4 external partners and various subcontracted partners came together. From 1st of July 2019 until 30th of June 2022 the consortium developed methods and measures for the safety-aware application of deep neural networks.&lt;/p&gt;
+&lt;p&gt;I worked in very close cooperation with one of the large OEMs. During the course of the project, I developed and published several new concepts. I would like to thank the whole consortium and all my co-authors for the great cooperation.&lt;/p&gt;
+&lt;p&gt;My publications as a first author:&lt;/p&gt;
+&lt;p&gt;A. Bär, M. Klingner, J. Löhdefink, F. Hüger, P. Schlicht, and T. Fingscheidt. &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Bar_Performance_Prediction_for_Semantic_Segmentation_by_a_Self-Supervised_Image_Reconstruction_CVPRW_2022_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Performance Prediction for Semantic Segmentation by a Self-Supervised Image Reconstruction Decoder&lt;/a&gt;, in Proc. of CVPR - Workshops, New Orleans, LA, USA, Jun. 2022, pp. 4399 - 4408.&lt;/p&gt;
+&lt;p&gt;A. Bär, J. Löhdefink, N. Kapoor, S. Varghese, F. Hüger, P. Schlicht, and T. Fingscheidt. &lt;a href=&#34;https://arxiv.org/abs/2101.03924&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Vulnerability of Semantic Segmentation Networks to Adversarial Attacks in Autonomous Driving: Enhancing Extensive Environment Sensing&lt;/a&gt;, in IEEE Signal Processing Magazine, vol. 38, no. 1, pp. 42 - 52, Jan. 2021.&lt;/p&gt;
+&lt;p&gt;A. Bär, M. Klingner, S. Varghese, F. Hüger, P. Schlicht, and T. Fingscheidt. &lt;a href=&#34;https://openaccess.thecvf.com/content_CVPRW_2020/papers/w20/Bar_Robust_Semantic_Segmentation_by_Redundant_Networks_With_a_Layer-Specific_Loss_CVPRW_2020_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robust Semantic Segmentation by Redundant Networks With a Layer-Specific Loss Contribution and Majority Vote&lt;/a&gt; (&lt;strong&gt;Best Paper Award&lt;/strong&gt;), in Proc. of CVPR - Workshops, Virtual Conference, Jun. 2020, pp. 1348 - 1358.&lt;/p&gt;
+&lt;p&gt;My publications as a &lt;em&gt;co-author&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;S. Houben, S. Abrecht, M. Akila, A. Bär, F. Brockherde, P. Feifel, T. Fingscheidt, S. Gannamaneni, S. Ghobadi, A. Hammam, A. Haselhoff, F. Hauser, C. Heinzemann, M. Hoffmann, N. Kapoor, F. Kappel, M. Klingner, J. Kronenberger, F. Küppers, J. Löhdefink, M. Mlynarski, M. Mock, F. Mualla, S. Pavlitskaya, M. Poretschkin, A. Pohl, V. Ravi-Kumar, J. Rosenzweig, M. Rottmann, S. Ruping, T. Sämann, J. Schneider, E. Schulz, G. Schwalbe, J. Sicking, T. Srivastava, S. Varghese, M. Weber, S. Wirkert, T. Wirtz, and M. Woehrle. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-031-01233-4_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inspect, Understand, Overcome: A Survey of Practical Methods for AI Safety&lt;/a&gt;, in Deep Neural Networks and Data for Automated Driving: Robustness, Uncertainty Quantification, and Insights Towards Safety, T. Fingscheidt, H. Gottschalk, and S. Houben, Eds. Cham: Springer Nature, 2022, pp. 3–78.&lt;/p&gt;
+&lt;p&gt;S. Varghese, C. Hümmer, A. Bär, F. Hüger, and T. Fingscheidt. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-031-01233-4_15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joint Optimization for DNN Model Compression and Corruption Robustness&lt;/a&gt;, in Deep Neural Networks and Data for Automated Driving: Robustness, Uncertainty Quantification, and Insights Towards Safety, T. Fingscheidt, H. Gottschalk, and S. Houben, Eds. Cham: Springer Nature, 2022, pp. 403 - 427.&lt;/p&gt;
+&lt;p&gt;N. Kapoor, A. Bär, S. Varghese, J. Schneider, F. Hüger, P. Schlicht, and T. Fingscheidt. &lt;a href=&#34;https://arxiv.org/abs/2012.01558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;From a Fourier-Domain Perspective on Adversarial Examples to a Wiener Filter Defense for Semantic Segmentation&lt;/a&gt;, in Proc. of IJCNN, Virtual Conference, Jul. 2021, pp. 1 - 8.&lt;/p&gt;
+&lt;p&gt;S. Varghese, S. Gujamagadi, M. Klingner, N. Kapoor, A. Bär, J. Schneider, K. Maag, P. Schlicht, F. Hüger, and T. Fingscheidt. &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2021W/SAIAD/papers/Varghese_An_Unsupervised_Temporal_Consistency_TC_Loss_To_Improve_the_Performance_CVPRW_2021_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Unsupervised Temporal Consistency (TC) Loss to Improve the Performance of Semantic Segmentation Networks&lt;/a&gt; (&lt;strong&gt;Best Paper Award&lt;/strong&gt;), in Proc. of CVPR - Workshops, Virtual Conference, 2021, pp. 12 - 20.&lt;/p&gt;
+&lt;p&gt;S. Varghese, Y. Bayzidi, A. Bär, N. Kapoor, S. Lahiri, J. D. Schneider, N. Schmidt, P. Schlicht, F. Hüger, and T. Fingscheidt. &lt;a href=&#34;https://openaccess.thecvf.com/content_CVPRW_2020/papers/w20/Varghese_Unsupervised_Temporal_Consistency_Metric_for_Video_Segmentation_in_Highly-Automated_Driving_CVPRW_2020_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unsupervised Temporal Consistency Metric for Video Segmentation in Highly-Automated Driving&lt;/a&gt;, in Proc. of CVPR - Workshops, Virtual Conference, Jun. 2020, pp. 1369 - 1378.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Source&lt;/strong&gt;: &lt;a href=&#34;https://www.ki-absicherung-projekt.de/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ki-absicherung-projekt.de/en/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: This text was written by Andreas Bär and only expresses his view on the project. This text does not reflect or imply any opinion of the consortium and its members.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

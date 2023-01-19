@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Andreas Bär</title>
+    <link>https://andrbaer.github.io/publication-type/6/</link>
+      <atom:link href="https://andrbaer.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrbaer.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>6</title>
+      <link>https://andrbaer.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>Improving Transferability of Generated Universal Adversarial Perturbations for Image Classification and Segmentation</title>
+      <link>https://andrbaer.github.io/publication/hashemi2022/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/hashemi2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspect, Understand, Overcome: A Survey of Practical Methods for AI Safety</title>
+      <link>https://andrbaer.github.io/publication/houben2022/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/houben2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Optimization for DNN Model Compression and Corruption Robustness</title>
+      <link>https://andrbaer.github.io/publication/varghese2022/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/varghese2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Andreas Bär</title>
+    <link>https://andrbaer.github.io/publication-type/1/</link>
+      <atom:link href="https://andrbaer.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrbaer.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://andrbaer.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Adversarial Perturbations in Multi-Task Perception</title>
+      <link>https://andrbaer.github.io/publication/klingner2022/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/klingner2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Bitrate Quantization Scheme Without Codebook for Learned Image Compression</title>
+      <link>https://andrbaer.github.io/publication/loehdefink2022/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/loehdefink2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Prediction for Semantic Segmentation and by a Self-Supervised Image Reconstruction Decoder</title>
+      <link>https://andrbaer.github.io/publication/baer2022/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From a Fourier-Domain Perspective on Adversarial Examples to a Wiener Filter Defense for Semantic Segmentation</title>
+      <link>https://andrbaer.github.io/publication/kapoor2021/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/kapoor2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Collective Anomalies in Images for Automated Driving Using an Earth Mover’s Deviation (EMDEV) Measure</title>
+      <link>https://andrbaer.github.io/publication/breitenstein2021/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/breitenstein2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Unsupervised Temporal Consistency (TC) Loss To Improve the Performance of Semantic Segmentation Networks</title>
+      <link>https://andrbaer.github.io/publication/varghese2021/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/varghese2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Online Performance Prediction for Semantic Segmentation</title>
+      <link>https://andrbaer.github.io/publication/klingner2021/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/klingner2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focussing Learned Image Compression to Semantic Classes for V2X Applications</title>
+      <link>https://andrbaer.github.io/publication/loehdefink2020/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/loehdefink2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class-Incremental Learning for Semantic Segmentation Re-Using Neither Old Data Nor Old Labels</title>
+      <link>https://andrbaer.github.io/publication/klingner2020a/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/klingner2020a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Noise and Attack Robustness for Semantic Segmentation by Using Multi-Task Training with Self-Supervised Depth Estimation</title>
+      <link>https://andrbaer.github.io/publication/klingner2020/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/klingner2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Semantic Segmentation by Redundant Networks With a Layer-Specific Loss Contribution and Majority Vote</title>
+      <link>https://andrbaer.github.io/publication/baer2020/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Temporal Consistency Metric for Video Segmentation in Highly-Automated Driving</title>
+      <link>https://andrbaer.github.io/publication/varghese2020/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/varghese2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Robustness of Redundant Teacher-Student Frameworks for Semantic Segmentation</title>
+      <link>https://andrbaer.github.io/publication/baer2019/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Low-Bitrate Image Compression for Distributed Automotive Perception: Higher Peak SNR Does Not Mean Better Semantic Segmentation</title>
+      <link>https://andrbaer.github.io/publication/loehdefink2019/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/loehdefink2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Corner Case Detection for Autonomous Driving</title>
+      <link>https://andrbaer.github.io/publication/bolte2019/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/bolte2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
