@@ -17,9 +17,17 @@
       <link>https://andrbaer.github.io/project/kia/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://andrbaer.github.io/project/kia/</guid>
-      <description>&lt;p&gt;Environment perception can be seen as &lt;em&gt;highly safety-relevant&lt;/em&gt; when it comes to automated driving. Deep neural networks (DNNs) are the state of the art in many computer vision disciplines. Therefore they are considered to be the go-to technology when it comes to environment perception. However, there are still concerns regarding the safety of DNN-based perception functions.&lt;/p&gt;
-&lt;p&gt;This is where the idea of KI Absicherung was born. In this project the question of &amp;ldquo;How can we verify the safety of DNN-based functions?&amp;rdquo; in the context of automated driving was addressed. With a project budget of 41M € and a funding budget of 19.2M €, a consortium of 24 project partners of both industry and academia with additional 4 external partners and various subcontracted partners came together. From 1st of July 2019 until 30th of June 2022 the consortium developed methods and measures for the safety-aware application of deep neural networks.&lt;/p&gt;
-&lt;p&gt;I worked in very close cooperation with one of the large OEMs. During the course of the project, I developed and published several new concepts. I would like to thank the whole consortium and all my co-authors for the great cooperation.&lt;/p&gt;
+      <description>&lt;p&gt;Environment perception can be seen as &lt;em&gt;highly safety-relevant&lt;/em&gt; when it comes to automated driving.
+Deep neural networks (DNNs) are the state of the art in many computer vision disciplines.
+As a result, they are considered to be the go-to technology when it comes to environment perception.
+However, there are still concerns regarding the safety of DNN-based perception functions.&lt;/p&gt;
+&lt;p&gt;This is where the idea of KI Absicherung was born.
+This project addressed the question &amp;ldquo;How can we verify the safety of DNN-based functions?&amp;rdquo; in the context of automated driving.
+With a project budget of 41M € and a funding budget of 19.2M €, a consortium of 24 project partners from both industry and academia joined forces with additional 4 external partners and various subcontracted partners.
+From July 1st, 2019 until June 30th, 2022 the consortium developed methods and measures for the safety-aware application of deep neural networks.&lt;/p&gt;
+&lt;p&gt;I worked in very close cooperation with one of the large OEMs.
+During the course of the project, I developed and published several new concepts.
+I would like to thank the whole consortium and all my co-authors for the wonderful cooperation.&lt;/p&gt;
 &lt;p&gt;My publications as a first author:&lt;/p&gt;
 &lt;p&gt;A. Bär, M. Klingner, J. Löhdefink, F. Hüger, P. Schlicht, and T. Fingscheidt. &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Bar_Performance_Prediction_for_Semantic_Segmentation_by_a_Self-Supervised_Image_Reconstruction_CVPRW_2022_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Performance Prediction for Semantic Segmentation by a Self-Supervised Image Reconstruction Decoder&lt;/a&gt;, in Proc. of CVPR - Workshops, New Orleans, LA, USA, Jun. 2022, pp. 4399 - 4408.&lt;/p&gt;
 &lt;p&gt;A. Bär, J. Löhdefink, N. Kapoor, S. Varghese, F. Hüger, P. Schlicht, and T. Fingscheidt. &lt;a href=&#34;https://arxiv.org/abs/2101.03924&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Vulnerability of Semantic Segmentation Networks to Adversarial Attacks in Autonomous Driving: Enhancing Extensive Environment Sensing&lt;/a&gt;, in IEEE Signal Processing Magazine, vol. 38, no. 1, pp. 42 - 52, Jan. 2021.&lt;/p&gt;
