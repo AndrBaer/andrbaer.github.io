@@ -17,7 +17,11 @@
       <link>https://andrbaer.github.io/project/ts_networks/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://andrbaer.github.io/project/ts_networks/</guid>
-      <description>&lt;p&gt;TBD&lt;/p&gt;
+      <description>&lt;p&gt;Teacher-student networks are typically used to distill knowledge from a large neural network to a smaller one.
+In this project, we investigated whether this paradigm can be used to create teacher-student ensembles having a certain level of adversarial robustness.&lt;/p&gt;
+&lt;p&gt;The results were published in a paper:&lt;/p&gt;
+&lt;p&gt;A. Bär, F. Hüger, P. Schlicht, and T. Fingscheidt. &lt;a href=&#34;https://openaccess.thecvf.com/content_CVPRW_2019/papers/SAIAD/Bar_On_the_Robustness_of_Redundant_Teacher-Student_Frameworks_for_Semantic_Segmentation_CVPRW_2019_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On the Robustness of Redundant Teacher-Student Frameworks for Semantic Segmentation&lt;/a&gt; (2nd place in the &lt;strong&gt;Best Paper Award&lt;/strong&gt; rallye), in Proc. of CVPR - Workshops, Long Beach, CA, USA, Jun. 2019, pp. 1380 - 1388.&lt;/p&gt;
+&lt;p&gt;This project was a joint effort with the Volkswagen Group.&lt;/p&gt;
 </description>
     </item>
     

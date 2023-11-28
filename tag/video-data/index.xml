@@ -14,10 +14,12 @@
     
     <item>
       <title>Universal Adversarial Attacks on Videos</title>
-      <link>https://andrbaer.github.io/project/single-task_multi-decoder/</link>
+      <link>https://andrbaer.github.io/project/universal_video_attacks/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://andrbaer.github.io/project/single-task_multi-decoder/</guid>
-      <description>&lt;p&gt;TBD&lt;/p&gt;
+      <guid>https://andrbaer.github.io/project/universal_video_attacks/</guid>
+      <description>&lt;p&gt;Universal adversarial attacks aim at disturbing the prediction of a neural network.
+In this project, we investigated whether a formulation for video data exist and developed universal adversarial attacks for videos.&lt;/p&gt;
+&lt;p&gt;This project was a joint effort with the Volkswagen Group.&lt;/p&gt;
 </description>
     </item>
     

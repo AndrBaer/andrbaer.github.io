@@ -14,19 +14,26 @@
     
     <item>
       <title>Single-Task Multi-Decoder Network Ensembles</title>
-      <link>https://andrbaer.github.io/project/universal_video_attacks/</link>
+      <link>https://andrbaer.github.io/project/single-task_multi-decoder/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://andrbaer.github.io/project/universal_video_attacks/</guid>
-      <description>&lt;p&gt;TBD&lt;/p&gt;
+      <guid>https://andrbaer.github.io/project/single-task_multi-decoder/</guid>
+      <description>&lt;p&gt;Ensemble methods show superior performance, uncertainty estimates, and out-of-distribution robustness.
+At the same time, they have both a higher memory footprint and latency when it comes to deployment.
+To overcome the latter while still benefit from the former, we investigated in this project the use of single-task multi-decoder networks.
+Here, we consider the decoders as the ensemble and use a shared encoder instead.
+To this end, we investigate variations of the loss, architecture, and data augmentation.&lt;/p&gt;
+&lt;p&gt;This project was a joint effort with CARIAD SE.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Universal Adversarial Attacks on Videos</title>
-      <link>https://andrbaer.github.io/project/single-task_multi-decoder/</link>
+      <link>https://andrbaer.github.io/project/universal_video_attacks/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://andrbaer.github.io/project/single-task_multi-decoder/</guid>
-      <description>&lt;p&gt;TBD&lt;/p&gt;
+      <guid>https://andrbaer.github.io/project/universal_video_attacks/</guid>
+      <description>&lt;p&gt;Universal adversarial attacks aim at disturbing the prediction of a neural network.
+In this project, we investigated whether a formulation for video data exist and developed universal adversarial attacks for videos.&lt;/p&gt;
+&lt;p&gt;This project was a joint effort with the Volkswagen Group.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +42,11 @@
       <link>https://andrbaer.github.io/project/ts_networks/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://andrbaer.github.io/project/ts_networks/</guid>
-      <description>&lt;p&gt;TBD&lt;/p&gt;
+      <description>&lt;p&gt;Teacher-student networks are typically used to distill knowledge from a large neural network to a smaller one.
+In this project, we investigated whether this paradigm can be used to create teacher-student ensembles having a certain level of adversarial robustness.&lt;/p&gt;
+&lt;p&gt;The results were published in a paper:&lt;/p&gt;
+&lt;p&gt;A. Bär, F. Hüger, P. Schlicht, and T. Fingscheidt. &lt;a href=&#34;https://openaccess.thecvf.com/content_CVPRW_2019/papers/SAIAD/Bar_On_the_Robustness_of_Redundant_Teacher-Student_Frameworks_for_Semantic_Segmentation_CVPRW_2019_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On the Robustness of Redundant Teacher-Student Frameworks for Semantic Segmentation&lt;/a&gt; (2nd place in the &lt;strong&gt;Best Paper Award&lt;/strong&gt; rallye), in Proc. of CVPR - Workshops, Long Beach, CA, USA, Jun. 2019, pp. 1380 - 1388.&lt;/p&gt;
+&lt;p&gt;This project was a joint effort with the Volkswagen Group.&lt;/p&gt;
 </description>
     </item>
     

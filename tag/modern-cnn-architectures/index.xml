@@ -14,10 +14,15 @@
     
     <item>
       <title>Single-Task Multi-Decoder Network Ensembles</title>
-      <link>https://andrbaer.github.io/project/universal_video_attacks/</link>
+      <link>https://andrbaer.github.io/project/single-task_multi-decoder/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://andrbaer.github.io/project/universal_video_attacks/</guid>
-      <description>&lt;p&gt;TBD&lt;/p&gt;
+      <guid>https://andrbaer.github.io/project/single-task_multi-decoder/</guid>
+      <description>&lt;p&gt;Ensemble methods show superior performance, uncertainty estimates, and out-of-distribution robustness.
+At the same time, they have both a higher memory footprint and latency when it comes to deployment.
+To overcome the latter while still benefit from the former, we investigated in this project the use of single-task multi-decoder networks.
+Here, we consider the decoders as the ensemble and use a shared encoder instead.
+To this end, we investigate variations of the loss, architecture, and data augmentation.&lt;/p&gt;
+&lt;p&gt;This project was a joint effort with CARIAD SE.&lt;/p&gt;
 </description>
     </item>
     
