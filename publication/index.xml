@@ -5,12 +5,20 @@
     <link>https://andrbaer.github.io/publication/</link>
       <atom:link href="https://andrbaer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andrbaer.github.io/media/icon_hu6f3f00bf32b63b175660be6614499f28_43426_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://andrbaer.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Frozen Feature Augmentation for Few-Shot Image Classification</title>
+      <link>https://andrbaer.github.io/publication/baer2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Novel Benchmark for Refinement of Noisy Localization Labels in Autolabeled Datasets for Object Detection</title>
