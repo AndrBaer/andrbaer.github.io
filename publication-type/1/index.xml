@@ -5,12 +5,28 @@
     <link>https://andrbaer.github.io/publication-type/1/</link>
       <atom:link href="https://andrbaer.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andrbaer.github.io/media/icon_hu6f3f00bf32b63b175660be6614499f28_43426_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://andrbaer.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Foundation Models for Amodal Video Instance Segmentation in Automated Driving</title>
+      <link>https://andrbaer.github.io/publication/breitenstein2024/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/breitenstein2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Causal to Causal SSL-Supported Transfer Learning: Towards A High-Performance Low-Latency Speech Vocoder</title>
+      <link>https://andrbaer.github.io/publication/shi2024/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/shi2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Frozen Feature Augmentation for Few-Shot Image Classification</title>
