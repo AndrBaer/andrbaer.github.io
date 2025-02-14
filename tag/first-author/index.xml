@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Author | Andreas Bär</title>
+    <link>https://andrbaer.github.io/tag/first-author/</link>
+      <atom:link href="https://andrbaer.github.io/tag/first-author/index.xml" rel="self" type="application/rss+xml" />
+    <description>First Author</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrbaer.github.io/media/icon_hu6f3f00bf32b63b175660be6614499f28_43426_512x512_fill_lanczos_center_3.png</url>
+      <title>First Author</title>
+      <link>https://andrbaer.github.io/tag/first-author/</link>
+    </image>
+    
+    <item>
+      <title>Frozen Feature Augmentation for Few-Shot Image Classification</title>
+      <link>https://andrbaer.github.io/publication/baer2024/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Benchmark for Refinement of Noisy Localization Labels in Autolabeled Datasets for Object Detection</title>
+      <link>https://andrbaer.github.io/publication/baer2023a/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2023a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improvements to Image Reconstruction-Based Performance Prediction for Semantic Segmentation in Highly Automated Driving</title>
+      <link>https://andrbaer.github.io/publication/baer2023/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Prediction for Semantic Segmentation by a Self-Supervised Image Reconstruction Decoder</title>
+      <link>https://andrbaer.github.io/publication/baer2022/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Vulnerability of Semantic Segmentation Networks to Adversarial Attacks in Autonomous Driving: Enhancing Extensive Environment Sensing</title>
+      <link>https://andrbaer.github.io/publication/baer2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Semantic Segmentation by Redundant Networks With a Layer-Specific Loss Contribution and Majority Vote</title>
+      <link>https://andrbaer.github.io/publication/baer2020/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Robustness of Redundant Teacher-Student Frameworks for Semantic Segmentation</title>
+      <link>https://andrbaer.github.io/publication/baer2019/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/baer2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

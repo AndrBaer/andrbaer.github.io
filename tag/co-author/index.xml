@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Andreas Bär</title>
-    <link>https://andrbaer.github.io/publication-type/1/</link>
-      <atom:link href="https://andrbaer.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>Co-Author | Andreas Bär</title>
+    <link>https://andrbaer.github.io/tag/co-author/</link>
+      <atom:link href="https://andrbaer.github.io/tag/co-author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Co-Author</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andrbaer.github.io/media/icon_hu6f3f00bf32b63b175660be6614499f28_43426_512x512_fill_lanczos_center_3.png</url>
-      <title>1</title>
-      <link>https://andrbaer.github.io/publication-type/1/</link>
+      <title>Co-Author</title>
+      <link>https://andrbaer.github.io/tag/co-author/</link>
     </image>
     
     <item>
@@ -25,30 +25,6 @@
       <link>https://andrbaer.github.io/publication/shi2024/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://andrbaer.github.io/publication/shi2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Frozen Feature Augmentation for Few-Shot Image Classification</title>
-      <link>https://andrbaer.github.io/publication/baer2024/</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://andrbaer.github.io/publication/baer2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Novel Benchmark for Refinement of Noisy Localization Labels in Autolabeled Datasets for Object Detection</title>
-      <link>https://andrbaer.github.io/publication/baer2023a/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://andrbaer.github.io/publication/baer2023a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improvements to Image Reconstruction-Based Performance Prediction for Semantic Segmentation in Highly Automated Driving</title>
-      <link>https://andrbaer.github.io/publication/baer2023/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://andrbaer.github.io/publication/baer2023/</guid>
       <description></description>
     </item>
     
@@ -69,10 +45,26 @@
     </item>
     
     <item>
-      <title>Performance Prediction for Semantic Segmentation by a Self-Supervised Image Reconstruction Decoder</title>
-      <link>https://andrbaer.github.io/publication/baer2022/</link>
-      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://andrbaer.github.io/publication/baer2022/</guid>
+      <title>Improving Transferability of Generated Universal Adversarial Perturbations for Image Classification and Segmentation</title>
+      <link>https://andrbaer.github.io/publication/hashemi2022/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/hashemi2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspect, Understand, Overcome: A Survey of Practical Methods for AI Safety</title>
+      <link>https://andrbaer.github.io/publication/houben2022/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/houben2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Optimization for DNN Model Compression and Corruption Robustness</title>
+      <link>https://andrbaer.github.io/publication/varghese2022/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/varghese2022/</guid>
       <description></description>
     </item>
     
@@ -109,6 +101,14 @@
     </item>
     
     <item>
+      <title>Transferable Universal Adversarial Perturbations Using Generative Models</title>
+      <link>https://andrbaer.github.io/publication/hashemi2020/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://andrbaer.github.io/publication/hashemi2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Focussing Learned Image Compression to Semantic Classes for V2X Applications</title>
       <link>https://andrbaer.github.io/publication/loehdefink2020/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
@@ -133,26 +133,10 @@
     </item>
     
     <item>
-      <title>Robust Semantic Segmentation by Redundant Networks With a Layer-Specific Loss Contribution and Majority Vote</title>
-      <link>https://andrbaer.github.io/publication/baer2020/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://andrbaer.github.io/publication/baer2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Unsupervised Temporal Consistency Metric for Video Segmentation in Highly-Automated Driving</title>
       <link>https://andrbaer.github.io/publication/varghese2020/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://andrbaer.github.io/publication/varghese2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Robustness of Redundant Teacher-Student Frameworks for Semantic Segmentation</title>
-      <link>https://andrbaer.github.io/publication/baer2019/</link>
-      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://andrbaer.github.io/publication/baer2019/</guid>
       <description></description>
     </item>
     
